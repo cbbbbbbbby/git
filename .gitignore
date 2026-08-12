@@ -1,0 +1,34 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local tooling
+.codex/
+.agents/
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+*.cache
+
+# Environment files
+.env
+.env.*
+
+# Common build outputs
+dist/
+build/
+out/
+target/
+
+# Dependency folders
+node_modules/
+venv/
+.venv/
